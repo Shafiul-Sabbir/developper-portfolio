@@ -19,7 +19,13 @@ section{
     background-color: orange;
     padding: 10px 40px;
     border-radius: 5px;
-    background-image:linear-gradient(orange, tomato);
+    background-image:linear-gradient(red, blue);
     color: white;
     font-weight: 400;
+}
+.top-banner{
+    background-image: url(images/left-corner1-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+     ;
 }
