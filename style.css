@@ -24,8 +24,6 @@ section{
     font-weight: 400;
 }
 .top-banner{
-    background-image: url(images/left-corner1-removebg-preview.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    background-size: 100px;
-     ;
 }
